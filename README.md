@@ -5,7 +5,7 @@ z plików wygenerowanych przez analizator bioimpedancyjny.
 ## Instalacja
 
 ```bash
-git clone github.com/KindOfBlue7/BIAnalysis/master
+git clone https://github.com/KindOfBlue7/BIAnalysis.git
 ```
 
 ## Użycie

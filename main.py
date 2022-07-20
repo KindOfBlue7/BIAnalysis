@@ -9,4 +9,5 @@ if __name__ == '__main__':
         print("Zly format pliku lub plik nie istnieje")
     else:
         bia = BIAnalysis(path)
+        bia.plot_cole_with_radius()
         bia.print_summary()
